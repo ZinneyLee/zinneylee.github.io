@@ -1,8 +1,8 @@
 ## ZinneyLee's Homepage
 
-You can use the [editor on GitHub](https://github.com/ZinneyLee/Zinney-Lee.github.oi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, my name is Jieun Lee.
+This is my new HOMEPAGE! 
+Welcome!
 
 ### Markdown
 
