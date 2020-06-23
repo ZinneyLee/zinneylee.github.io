@@ -12,10 +12,16 @@ It's an indicator that evaluates AI that we made.
 
 ### CONFUSION MATRIX  
 Do you ever heard about **CONFUSION MATRIX**?  
-It is the evaluation table and consist of TP, FP, TN and FN.
-We have to know what is "TP, FP, TN, FN".
-
-
+It is the evaluation table and consist of TP, FP, TN and FN.  
+Before we begin to study the confusion matrix in earnest, e need to know what "TP, FP, TN, FN" is.  
+Suppose AI you made. And it predicts the result in binary(Positive or Negative).  
+#### If real answer is POSITIVE about some problem.
+- Our AI predicted the result to *POSITIVE*.
+  - That time, We call it "True Positive(TP)".
+- Our AI predicted the result to *NEGATIVE*
+  - That time, We call it "False Negative(FN)".
+  
+  
 ## Header 2
 ### Header 3
 
