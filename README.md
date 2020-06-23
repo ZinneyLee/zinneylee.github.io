@@ -1,15 +1,21 @@
-## Let's study about Data Science!
+# Let's study about Data Science!
 
-Hello, my name is Jieun Lee.  
+Hello, my name is Jane Lee.  
 This is my HOMEPAGE! And I'm trying to share my **Knowledge** about *Data Science*.  
 Then,,, Let's join!  
 
-### ROC curve
+## ROC curve
 
 First at all, I want to talk about **"ROC curve".**   
 It's an indicator that evaluates AI that we made.  
 
-# Header 1
+
+### CONFUSION MATRIX  
+Do you ever heard about **CONFUSION MATRIX**?  
+It is the evaluation table and consist of TP, FP, TN and FN.
+We have to know what is "TP, FP, TN, FN".
+
+
 ## Header 2
 ### Header 3
 
