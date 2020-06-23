@@ -27,8 +27,8 @@ Suppose AI you made. And it predicts the result in binary(Positive or Negative).
   - That time, We call it "True Negative(TN)".
 
 Then we will make CONFUSION MATRIX!  
-|             |            |  Predicted |      <     |
-|             |            |  Positive  |  Negative  |
+|                          |  Predicted             ||
+|                          |  Positive  |  Negative  |
 |==========================|------------|------------|
 | Real Answer |  Positive  |     TP     |     FN     |
 |       ^     |  Negative  |     FP     |     TN     |
