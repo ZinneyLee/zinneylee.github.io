@@ -40,27 +40,8 @@ It divides data into "Positive" or "Negative".
 However, in my story, it would be easier to understand to think that it is a prediction of our AI.  
 
 There is a graph about some data.  
-![Graph](https://user-images.githubusercontent.com/65939621/85392496-90ee4180-b586-11ea-9730-46caaeb513e6.PNG)
+<img src = "https://user-images.githubusercontent.com/65939621/85392496-90ee4180-b586-11ea-9730-46caaeb513e6.PNG" width ="500">  
 
-### Header 3
+Depending on where you put thershold, Confusion Matrix also changes.  
+~~~~~Because real result values are already fixed in the graph.~~~~~
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ , width="15").
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZinneyLee/Zinney-Lee.github.oi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
