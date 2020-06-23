@@ -59,3 +59,4 @@ According to table of Confusion Matrix, we can understand what they are.
   - How incorrectly did our AI choose the answer?
 
 Set FPR to x-axis and TPR to y-axis.  
+<img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="400">
