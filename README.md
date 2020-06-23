@@ -37,11 +37,25 @@ Then we will make CONFUSION MATRIX!
 ### Threshold
 Thresholds are similar as **Base Point**.  
 It divides data into "Positive" or "Negative".  
-However, in my story, it would be easier to understand to think that it is a prediction of our AI.  
+~~However, in my story, it would be easier to understand to think that it is a prediction of our AI.~~
 
 There is a graph about some data.  
 <img src = "https://user-images.githubusercontent.com/65939621/85392496-90ee4180-b586-11ea-9730-46caaeb513e6.PNG" width ="500">  
 
-Depending on where you put thershold, Confusion Matrix also changes.  
-~~Because real result values are already fixed in the graph.~~
+Depending on where you put threshold, Confusion Matrix's value also changes.  
+(Because real result values are _already_ fixed in the graph.)  
 
+So, there are so many Confusion matrix.
+
+### ROC(Receiver Operating Characteristics) curve
+It consists of TPR and FPR.  
+According to table of Confusion Matrix, we can understand what they are.  
+- TPR(True Positive Rate) = Sensitivity
+  - `TP/(TP+FN)`
+  - How many times did our AI choose the answer?
+
+- FPR(False Positive Rate) = 1-Specificity
+  - `FP/(FP+TN)`
+  - How incorrectly did our AI choose the answer?
+
+Set FPR to x-axis and TPR to y-axis.  
