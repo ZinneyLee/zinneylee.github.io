@@ -1,7 +1,8 @@
 # Let's study about Data Science!
 
 Hello, my name is Jane Lee.  
-This is my HOMEPAGE! And I'm trying to share my **Knowledge** about *Data Science*.  
+This is my HOMEPAGE!   
+And I'm trying to share my **Knowledge** about *Data Science*.  
 Then,,, Let's join!  
 
 ## ROC curve
@@ -13,7 +14,7 @@ It's an indicator that evaluates AI that we made.
 ### CONFUSION MATRIX  
 Do you ever heard about **CONFUSION MATRIX**?  
 It is the evaluation table and consist of TP, FP, TN and FN.  
-Before we begin to study the confusion matrix in earnest, e need to know what "TP, FP, TN, FN" is.  
+Before we begin to study the confusion matrix in earnest, we need to know what "TP, FP, TN, FN" is.  
 Suppose AI you made. And it predicts the result in binary(Positive or Negative).  
 
 #### If real answer is "*POSITIVE*" about some problem.
