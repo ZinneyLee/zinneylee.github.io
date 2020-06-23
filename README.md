@@ -33,7 +33,15 @@ Then we will make CONFUSION MATRIX!
 | **Real Answer** |  Positive  |     TP     |     FN     |
 |     ^       |  Negative  |     FP     |     TN     |
   
-## Header 2
+
+### Threshold
+Thresholds are similar as **Base Point**.  
+It divides data into "Positive" or "Negative".  
+However, in my story, it would be easier to understand to think that it is a prediction of our AI.  
+
+There is a graph about some data.
+
+
 ### Header 3
 
 - Bulleted
