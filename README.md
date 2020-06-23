@@ -39,7 +39,7 @@ Thresholds are similar as **Base Point**.
 It divides data into "Positive" or "Negative".  
 However, in my story, it would be easier to understand to think that it is a prediction of our AI.  
 
-There is a graph about some data.
+There is a graph about some data.  
 ![Graph](https://user-images.githubusercontent.com/65939621/85392496-90ee4180-b586-11ea-9730-46caaeb513e6.PNG)
 
 ### Header 3
@@ -55,7 +55,7 @@ There is a graph about some data.
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ width="15").
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ , width="15").
 
 ### Jekyll Themes
 
