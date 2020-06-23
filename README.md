@@ -19,7 +19,7 @@ Suppose AI you made. And it predicts the result in binary(Positive or Negative).
 - Our AI predicted the result to *POSITIVE*.
   - That time, We call it "True Positive(TP)".
 - Our AI predicted the result to *NEGATIVE*
-  - That time, We call it "False Negative(FN)".
+  - That time, We call it "False Negative(FN)".  
 #### If real answer is "*NEGATIVE*" about some problem.
 - Our AI predicted the result to *POSITIVE*.
   - That time, We call it "False Positive(FP)".
