@@ -30,7 +30,7 @@ Then we will make CONFUSION MATRIX!
 |             |            |  Predicted |     <      |
 | :---------: |  :------:  |  :------:  |  :------:  |
 |             |            |  Positive  |  Negative  |
-| Real Answer |  Positive  |     TP     |     FN     |
+| **Real Answer** |  Positive  |     TP     |     FN     |
 |       ^     |  Negative  |     FP     |     TN     |
   
 ## Header 2
