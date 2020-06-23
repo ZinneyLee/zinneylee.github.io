@@ -1,4 +1,4 @@
-## ZinneyLee's Homepage
+## Let's study about Data Science!
 
 Hello, my name is Jieun Lee.
 This is my new HOMEPAGE! 
