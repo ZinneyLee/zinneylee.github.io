@@ -30,8 +30,8 @@ Then we will make CONFUSION MATRIX!
 |             |            |  Predicted |     <      |
 | :---------: |  :------:  |  :------:  |  :------:  |
 |             |            |  Positive  |  Negative  |
-| **Real Answer** |  Positive  |     TP     |     FN     |
-|       ^     |  Negative  |     FP     |     TN     |
+|       ^     |  Positive  |     TP     |     FN     |
+| **Real Answer** |  Negative  |     FP     |     TN     |
   
 ## Header 2
 ### Header 3
