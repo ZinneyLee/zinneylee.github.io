@@ -43,5 +43,5 @@ There is a graph about some data.
 <img src = "https://user-images.githubusercontent.com/65939621/85392496-90ee4180-b586-11ea-9730-46caaeb513e6.PNG" width ="500">  
 
 Depending on where you put thershold, Confusion Matrix also changes.  
-~~~~~Because real result values are already fixed in the graph.~~~~~
+~~Because real result values are already fixed in the graph.~~
 
