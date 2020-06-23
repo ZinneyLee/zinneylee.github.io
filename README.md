@@ -64,4 +64,4 @@ Set FPR to x-axis and TPR to y-axis.
 <img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="500">
 
 
-If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) is helpful for you.
+If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.
