@@ -15,12 +15,24 @@ Do you ever heard about **CONFUSION MATRIX**?
 It is the evaluation table and consist of TP, FP, TN and FN.  
 Before we begin to study the confusion matrix in earnest, e need to know what "TP, FP, TN, FN" is.  
 Suppose AI you made. And it predicts the result in binary(Positive or Negative).  
-#### If real answer is POSITIVE about some problem.
+#### If real answer is "*POSITIVE*" about some problem.
 - Our AI predicted the result to *POSITIVE*.
   - That time, We call it "True Positive(TP)".
 - Our AI predicted the result to *NEGATIVE*
   - That time, We call it "False Negative(FN)".
-  
+#### If real answer is "*NEGATIVE*" about some problem.
+- Our AI predicted the result to *POSITIVE*.
+  - That time, We call it "False Positive(FP)".
+- Our AI predicted the result to *NEGATIVE*
+  - That time, We call it "True Negative(TN)".
+
+Then we will make CONFUSION MATRIX!  
+|                         ||  Predicted             ||
+|                         ||  Positive  |  Negative  |
+|=========================||  :------:  |  :------:  |
+| Real Answer |  Positive  |     TP     |     FN     |
+|    ^        |  Negative  |     FP     |     TN     |
+|   :------:  |  :------:  |  :------:  |  :------:  |
   
 ## Header 2
 ### Header 3
