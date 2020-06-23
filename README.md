@@ -31,7 +31,6 @@ Then we will make CONFUSION MATRIX!
 |                          |  Positive  |  Negative  |
 |   :-------------------:  |  :------:  |  :------:  |
 | Real Answer |  Positive  |     TP     |     FN     |
-|   :------:  |  :------:  |  :------:  |  :------:  |
 |       ^     |  Negative  |     FP     |     TN     |
 |   :------:  |  :------:  |  :------:  |  :------:  |
   
