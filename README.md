@@ -52,11 +52,11 @@ It consists of TPR and FPR.
 According to table of Confusion Matrix, we can understand what they are.  
 - TPR(True Positive Rate) = Sensitivity
   - `TP/(TP+FN)`
-  - How many times did our AI choose the answer?
+  - **_How many times_** did our AI choose the answer?
 
 - FPR(False Positive Rate) = 1-Specificity
   - `FP/(FP+TN)`
-  - How incorrectly did our AI choose the answer?
+  - **_How incorrectly_** did our AI choose the answer?
 
 Set FPR to x-axis and TPR to y-axis.  
-<img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="400">
+<img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="500">
