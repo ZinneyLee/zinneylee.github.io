@@ -1,4 +1,4 @@
-# Let's study about Data Science!
+# Let's study Data Science!
 
 Hello, my name is Jane Lee.  
 This is my HOMEPAGE!   
