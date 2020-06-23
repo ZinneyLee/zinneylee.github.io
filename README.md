@@ -1,15 +1,13 @@
 ## Let's study about Data Science!
 
-Hello, my name is Jieun Lee.
-This is my new HOMEPAGE! 
-Welcome!
+Hello, my name is Jieun Lee.  
+This is my HOMEPAGE! And I'm trying to share my **Knowledge** about *Data Science*.  
+Then,,, Let's join!  
 
-### Markdown
+### ROC curve
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+First at all, I want to talk about **"ROC curve".**   
+It's an indicator that evaluates AI that we made.  
 
 # Header 1
 ## Header 2
