@@ -97,6 +97,6 @@ In this situation, two wrong judgments can occur.
 
 'Case 2' is more **_DANGEROUS_**. An outsider could break into our house.  
 Therefore, you must determine the threshold at which FP does not occur.  
-<img src = "https://user-images.githubusercontent.com/65939621/85498385-8bdad200-b61a-11ea-85a8-ea26b8e6731a.PNG" width="500">  
+<img src = "https://user-images.githubusercontent.com/65939621/85498391-8e3d2c00-b61a-11ea-8ab3-7fb2f66e8a48.PNG" width="500">  
 
 If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.  
