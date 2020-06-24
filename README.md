@@ -77,15 +77,26 @@ Determining threshold depends on the situation in which the system is used.
 ### Better Decision Threshold
 ##### Cancer Detection
 Imagine a situation in which a doctor diagnoses a patient's cancer.  
-(Here, understand that doctors are our AI.)  
+(Here, understand that doctor is our AI.)  
 
 In this situation, two wrong judgments can occur.  
-1. The doctor diagnoses the cancer patient as normal.  
-2. The doctor diagnoses the normal patient as cancer.  
+1. The doctor diagnoses the cancer patient as normal. (=FN)  
+2. The doctor diagnoses the normal patient as cancer. (=FP)   
 
-'Case 1' is more **DANGEROUS**. The patient may miss the time to treat cancer.  
+'Case 1' is more **_DANGEROUS_**. The patient may miss the time to treat cancer.  
 Therefore, you must determine the threshold at which FN does not occur.  
 <img src = "https://user-images.githubusercontent.com/65939621/85498385-8bdad200-b61a-11ea-85a8-ea26b8e6731a.PNG" width="500">  
 
+##### Fingerprint Doorlock
+Imagine a situation where we open the door with a door lock.  
+(Here, understand that Doorlook is our AI.)  
+
+In this situation, two wrong judgments can occur.  
+1. The door deny the registered fingerprint (=FN)  
+2. The door approve the unregistered fingerprint (=FP)   
+
+'Case 2' is more **_DANGEROUS_**. An outsider could break into our house.  
+Therefore, you must determine the threshold at which FP does not occur.  
+<img src = "https://user-images.githubusercontent.com/65939621/85498385-8bdad200-b61a-11ea-85a8-ea26b8e6731a.PNG" width="500">  
 
 If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.  
