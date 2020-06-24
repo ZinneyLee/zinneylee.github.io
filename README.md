@@ -34,6 +34,7 @@ Then we will make CONFUSION MATRIX!
 | **Real Answer** |  Positive  |     TP     |     FN     |
 |     ^       |  Negative  |     FP     |     TN     |
   
+*****
 
 ### Threshold
 Thresholds are similar as **Base Point**.  
@@ -47,6 +48,7 @@ Depending on where you put threshold, Confusion Matrix's value also changes.
 (Because real result values are _already_ fixed in the graph.)  
 
 So, there are so many Confusion matrix.
+*****
 
 ### ROC(Receiver Operating Characteristics) curve
 It consists of TPR and FPR.  
