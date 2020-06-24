@@ -40,7 +40,7 @@ Then we will make CONFUSION MATRIX!
 ### Threshold
 Thresholds are similar as **Base Point**.  
 It divides data into "Positive" or "Negative".  
-~~However, in my story, it would be easier to understand to think that it is a prediction of our AI.~~
+However, in my story, it would be easier to understand to think that it is a prediction of our AI.
 
 There is a graph about some data.  
 <img src = "https://user-images.githubusercontent.com/65939621/85392496-90ee4180-b586-11ea-9730-46caaeb513e6.PNG" width ="500">  
@@ -62,7 +62,13 @@ According to table of Confusion Matrix, we can understand what they are.
   - **_How incorrectly_** did our AI choose the answer?
 
 Set FPR to x-axis and TPR to y-axis.  
+Calculate and plot the TPR and FPR of each confusion matrix.  
+Then All the points become a ROC curve.
 <img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="500">
-
+In the graph, a green diagonal is the same of TPR and FPR.  
+In other words, it is the probability of accidental occurrence.  
+So the closer the ROC curve is to the green line, the worse our AI's ability.  
+~~(Threshold = our AI's prediction)~~  
+And the more similar the shape of the ROC curve to '⎾', the better our AI's ability.  
 
 If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.
