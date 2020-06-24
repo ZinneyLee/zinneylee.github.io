@@ -2,12 +2,10 @@
 
 Hello, my name is Jane Lee.  
 This is my HOMEPAGE!   
-And I'm trying to share my **Knowledge** about *Data Science*.  
+I'm trying to share my **Knowledge** about *ROC curve*.  
 Then,,, Let's join!  
 
 ## ROC curve
-
-First at all, I want to talk about **"ROC curve".**   
 It's an indicator that evaluates AI that we made.  
 
 
@@ -71,4 +69,16 @@ So the closer the ROC curve is to the green line, the worse our AI's ability.
 ~~(Threshold = our AI's prediction)~~  
 And the more similar the shape of the ROC curve to '⎾', the better our AI's ability.  
 
-If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.
+After completing ROC curve, we can decide which thresholds to use.
+Determining threshold depends on the situation in which the system is used. 
+
+#### Better Decision Threshold
+###### Cancer Detection
+Imagine a situation in which a doctor diagnoses a patient's cancer.  
+(Here, understand that doctors are our AI.  
+In this situation, two wrong judgments can occur.  
+1. The doctor diagnoses the cancer patient as normal.  
+2. The doctor diagnoses the normal patient as cancer.  
+'Case 1' is more **DANGEROUS**. The patient may miss the time to treat cancer.  
+
+If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.  
