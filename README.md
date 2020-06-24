@@ -47,7 +47,8 @@ There is a graph about some data.
 Depending on where you put threshold, Confusion Matrix's value also changes.  
 (Because real result values are _already_ fixed in the graph.)  
 
-So, there are so many Confusion matrix.
+So, there are so many Confusion matrix.  
+
 *****
 
 ### ROC(Receiver Operating Characteristics) curve
@@ -74,7 +75,7 @@ And the more similar the shape of the ROC curve to '⎾', the better our AI's ab
 After completing ROC curve, we can decide which thresholds to use.  
 Determining threshold depends on the situation in which the system is used. 
 
-<img src = "https://user-images.githubusercontent.com/65939621/85498824-64d0d000-b61b-11ea-8579-e79e034bb572.PNG" width="500">
+<img src = "https://user-images.githubusercontent.com/65939621/85498824-64d0d000-b61b-11ea-8579-e79e034bb572.PNG" width="500">  
 
 *****
 
