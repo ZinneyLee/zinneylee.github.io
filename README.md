@@ -72,6 +72,8 @@ And the more similar the shape of the ROC curve to '⎾', the better our AI's ab
 After completing ROC curve, we can decide which thresholds to use.  
 Determining threshold depends on the situation in which the system is used. 
 
+<img src = "https://user-images.githubusercontent.com/65939621/85498824-64d0d000-b61b-11ea-8579-e79e034bb572.PNG" width="500">
+
 ### Better Decision Threshold
 ##### Cancer Detection
 Imagine a situation in which a doctor diagnoses a patient's cancer.  
