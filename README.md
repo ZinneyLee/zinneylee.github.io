@@ -64,7 +64,7 @@ According to table of Confusion Matrix, we can understand what they are.
 Set FPR to x-axis and TPR to y-axis.  
 Calculate and plot the TPR and FPR of each confusion matrix.  
 Then All the points become a ROC curve.  
-<img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="500">
+<img src = "https://user-images.githubusercontent.com/65939621/85402051-feee3500-b595-11ea-9630-41e87642237e.png" width="500">  
 In the graph, a green diagonal is the same of TPR and FPR.  
 In other words, it is the probability of accidental occurrence.  
 So the closer the ROC curve is to the green line, the worse our AI's ability.  
