@@ -82,5 +82,8 @@ In this situation, two wrong judgments can occur.
 2. The doctor diagnoses the normal patient as cancer.  
 
 'Case 1' is more **DANGEROUS**. The patient may miss the time to treat cancer.  
+Therefore, you must determine the threshold at which FN does not occur.  
 <img src = "https://user-images.githubusercontent.com/65939621/85498385-8bdad200-b61a-11ea-85a8-ea26b8e6731a.PNG" width="500">  
+
+
 If you want to know more, this [video](https://youtu.be/4jRBRDbJemM) will be helpful for you.  
