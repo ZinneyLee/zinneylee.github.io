@@ -9,7 +9,7 @@ Then,,, Let's join!
 It's an indicator that evaluates AI that we made.  
 
 ### History
-> The ROC curve was first used during World War II for the analysis of radar signals before it was employed in signal detection theory. Following the attack on Pearl Harbor in 1941, the United States army began new research to increase the prediction of correctly detected Japanese aircraft from their radar signals.
+> The ROC curve was first used during World War II for the analysis of radar signals before it was employed in signal detection theory. Following the attack on Pearl Harbor in 1941, the United States army began new research to increase the prediction of correctly detected Japanese aircraft from their radar signals. -Wikipedia
 
 ### CONFUSION MATRIX  
 Do you ever heard about **CONFUSION MATRIX**?  
